@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1024,
+    "id" : "https://lhenze.github.io/iiif-training-20230315/images/DALLE-2022-12-06-18-03-28/canvas/",
+    "label" : {
+      "none" : [ "DALLE-2022-12-06-18-03-28" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://lhenze.github.io/iiif-training-20230315/images/DALLE-2022-12-06-18-03-28/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://lhenze.github.io/iiif-training-20230315/images/DALLE-2022-12-06-18-03-28/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 32,
+              "height" : 32
+            }, {
+              "width" : 64,
+              "height" : 64
+            }, {
+              "width" : 128,
+              "height" : 128
+            }, {
+              "width" : 256,
+              "height" : 256
+            }, {
+              "width" : 512,
+              "height" : 512
+            }, {
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1024,
+            "@id" : "https://lhenze.github.io/iiif-training-20230315/images/DALLE-2022-12-06-18-03-28",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1024
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1024,
+          "id" : "https://lhenze.github.io/iiif-training-20230315/images/DALLE-2022-12-06-18-03-28/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1024
+        },
+        "target" : "https://lhenze.github.io/iiif-training-20230315/images/DALLE-2022-12-06-18-03-28/canvas/"
+      } ]
+    } ],
+    "height" : 1024
+  }, {
     "width" : 960,
     "id" : "https://lhenze.github.io/iiif-training-20230315/images/IMG_1765/canvas/",
     "label" : {
