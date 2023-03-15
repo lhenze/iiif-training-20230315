@@ -1,0 +1,67 @@
+{
+  "id" : "https://lhenze.github.io/iiif-training-20230315/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in lhenze/iiif-training-20230315 project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 588,
+    "id" : "https://lhenze.github.io/iiif-training-20230315/images/heureuse_annee/canvas/",
+    "label" : {
+      "none" : [ "heureuse_annee" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://lhenze.github.io/iiif-training-20230315/images/heureuse_annee/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://lhenze.github.io/iiif-training-20230315/images/heureuse_annee/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 19,
+              "height" : 27
+            }, {
+              "width" : 37,
+              "height" : 53
+            }, {
+              "width" : 74,
+              "height" : 106
+            }, {
+              "width" : 147,
+              "height" : 211
+            }, {
+              "width" : 294,
+              "height" : 422
+            }, {
+              "width" : 588,
+              "height" : 844
+            } ],
+            "profile" : "level0",
+            "width" : 588,
+            "id" : "https://lhenze.github.io/iiif-training-20230315/images/heureuse_annee",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 844
+          } ],
+          "format" : "image/jpeg",
+          "width" : 588,
+          "id" : "https://lhenze.github.io/iiif-training-20230315/images/heureuse_annee/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 844
+        },
+        "target" : "https://lhenze.github.io/iiif-training-20230315/images/heureuse_annee/canvas/"
+      } ]
+    } ],
+    "height" : 844
+  } ]
+}
