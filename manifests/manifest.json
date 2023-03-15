@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://lhenze.github.io/iiif-training-20230315/manifests/manifest.json",
   "@type" : "sc:Manifest",
-  "label" : "Laura's manifest test 003",
+  "label" : "Laura's manifest test 004: now published on workbench",
   "metadata" : [ {
     "randomcustom" : "notappearing"
   } ],
