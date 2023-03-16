@@ -1,0 +1,327 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://lhenze.github.io/iiif-training-20230315/manifests/themassesmanifest.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "The Masses, March 1911" ]
+  },
+  "behavior" : [ "paged" ],
+  "items" : [ {
+    "id" : "https://sites.dlib.nyu.edu/viewer/api/presentation/books/masses003/canvas/1",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "1" ]
+    },
+    "width" : 4864,
+    "height" : 5914,
+    "items" : [ {
+      "id" : "https://sites.dlib.nyu.edu/viewer/api/presentation/books/masses003/page/1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "@context" : "http://iiif.io/api/presentation/3/context.json",
+        "id" : "https://sites.dlib.nyu.edu/viewer/api/presentation/books/masses003/annotation/painting/1",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://sites.dlib.nyu.edu/viewer/api/image/books/masses003/1",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : [ {
+            "id" : "https://sites.dlib.nyu.edu/viewer/api/image/books/masses003/1",
+            "type" : "ImageService2",
+            "profile" : "level1"
+          } ],
+          "height" : 5914,
+          "width" : 4864
+        },
+        "target" : "https://sites.dlib.nyu.edu/viewer/api/presentation/books/masses003/canvas/1"
+      } ]
+    } ]
+  }, {
+    "id" : "https://sites.dlib.nyu.edu/viewer/api/presentation/books/masses003/canvas/2",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "2" ]
+    },
+    "width" : 4691,
+    "height" : 5861,
+    "items" : [ {
+      "id" : "https://sites.dlib.nyu.edu/viewer/api/presentation/books/masses003/page/2",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "@context" : "http://iiif.io/api/presentation/3/context.json",
+        "id" : "https://sites.dlib.nyu.edu/viewer/api/presentation/books/masses003/annotation/painting/2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://sites.dlib.nyu.edu/viewer/api/image/books/masses003/2",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : [ {
+            "id" : "https://sites.dlib.nyu.edu/viewer/api/image/books/masses003/2",
+            "type" : "ImageService2",
+            "profile" : "level1"
+          } ],
+          "height" : 5861,
+          "width" : 4691
+        },
+        "target" : "https://sites.dlib.nyu.edu/viewer/api/presentation/books/masses003/canvas/2"
+      } ]
+    } ]
+  }, {
+    "id" : "https://sites.dlib.nyu.edu/viewer/api/presentation/books/masses003/canvas/3",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "3" ]
+    },
+    "width" : 4864,
+    "height" : 5914,
+    "items" : [ {
+      "id" : "https://sites.dlib.nyu.edu/viewer/api/presentation/books/masses003/page/3",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "@context" : "http://iiif.io/api/presentation/3/context.json",
+        "id" : "https://sites.dlib.nyu.edu/viewer/api/presentation/books/masses003/annotation/painting/3",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://sites.dlib.nyu.edu/viewer/api/image/books/masses003/3",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : [ {
+            "id" : "https://sites.dlib.nyu.edu/viewer/api/image/books/masses003/3",
+            "type" : "ImageService2",
+            "profile" : "level1"
+          } ],
+          "height" : 5914,
+          "width" : 4864
+        },
+        "target" : "https://sites.dlib.nyu.edu/viewer/api/presentation/books/masses003/canvas/3"
+      } ]
+    } ]
+  }, {
+    "id" : "https://sites.dlib.nyu.edu/viewer/api/presentation/books/masses003/canvas/4",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "4" ]
+    },
+    "width" : 4691,
+    "height" : 5861,
+    "items" : [ {
+      "id" : "https://sites.dlib.nyu.edu/viewer/api/presentation/books/masses003/page/4",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "@context" : "http://iiif.io/api/presentation/3/context.json",
+        "id" : "https://sites.dlib.nyu.edu/viewer/api/presentation/books/masses003/annotation/painting/4",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://sites.dlib.nyu.edu/viewer/api/image/books/masses003/4",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : [ {
+            "id" : "https://sites.dlib.nyu.edu/viewer/api/image/books/masses003/4",
+            "type" : "ImageService2",
+            "profile" : "level1"
+          } ],
+          "height" : 5861,
+          "width" : 4691
+        },
+        "target" : "https://sites.dlib.nyu.edu/viewer/api/presentation/books/masses003/canvas/4"
+      } ]
+    } ]
+  } ],
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "Author/Contributor" ]
+    },
+    "value" : {
+      "en" : [ "Seltzer, Thomas, 1875-1943, ed.", "Winslow, Horatio, 1882-1972, ed.", "Vlag, Piet, ed.", "Eastman, Max, 1883-1969, ed.", "Watts, Theodore F., ctb." ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Subtitle" ]
+    },
+    "value" : {
+      "en" : [ "A Monthly Magazine Devoted to the Interests of the Working People" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Description" ]
+    },
+    "value" : {
+      "en" : [ "Vol. 1, No. 3, March 1911" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Call Number" ]
+    },
+    "value" : {
+      "en" : [ "HX1 .M2" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Volume" ]
+    },
+    "value" : {
+      "en" : [ "1" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Title" ]
+    },
+    "value" : {
+      "en" : [ "The Masses, March 1911" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Date of Publication" ]
+    },
+    "value" : {
+      "en" : [ "March 1911" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Place of Publication" ]
+    },
+    "value" : {
+      "en" : [ "New York" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Identifier" ]
+    },
+    "value" : {
+      "en" : [ "masses003" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Language" ]
+    },
+    "value" : {
+      "en" : [ "English" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Language Code" ]
+    },
+    "value" : {
+      "en" : [ "eng" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Number" ]
+    },
+    "value" : {
+      "en" : [ "3" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Page Count" ]
+    },
+    "value" : {
+      "en" : [ "20" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Publisher" ]
+    },
+    "value" : {
+      "en" : [ "The Masses Publishing Co." ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Sequence Count" ]
+    },
+    "value" : {
+      "en" : [ "20" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Collection" ]
+    },
+    "value" : {
+      "en" : [ "The Masses" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Provider" ]
+    },
+    "value" : {
+      "en" : [ "The Tamiment Library and Robert F. Wagner Labor Archives" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Subject" ]
+    },
+    "value" : {
+      "en" : [ "Socialism -- United States -- Periodicals", "Socialism -- Periodicals", "United States -- Politics and government -- 1901-1953 -- Periodicals" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Permanent Link" ]
+    },
+    "value" : {
+      "en" : [ "http://hdl.handle.net/2333.1/05qftvkq" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Binding Orientation" ]
+    },
+    "value" : {
+      "en" : [ "Horizontal" ]
+    }
+  } ],
+  "viewingDirection" : "left-to-right",
+  "homepage" : [ {
+    "id" : "https://sites.dlib.nyu.edu/viewer/books/masses003/1",
+    "type" : "Text",
+    "label" : {
+      "en" : [ "View on NYU DLTS Viewer" ]
+    },
+    "format" : "text/html"
+  } ],
+  "logo" : [ {
+    "id" : "https://yt3.ggpht.com/-RZYi5isxH_M/AAAAAAAAAAI/AAAAAAAAAAA/rmWpoe2qZzI/s900-c-k-no/photo.jpg",
+    "type" : "Image",
+    "format" : "image/jpeg",
+    "height" : 100,
+    "width" : 120
+  } ],
+  "thumbnail" : [ {
+    "id" : "https://sites.dlib.nyu.edu/viewer/api/image/books/masses003/1/full/256,/0/default.jpg",
+    "type" : "Image",
+    "format" : "image/jpeg",
+    "service" : [ {
+      "id" : "https://sites.dlib.nyu.edu/viewer/api/image/books/masses003/1",
+      "type" : "ImageService2",
+      "profile" : "level1"
+    } ]
+  } ],
+  "rendering" : [ {
+    "id" : "http://mc.dlib.nyu.edu/files/books/masses003/masses003_hi.pdf",
+    "type" : "Text",
+    "format" : "application/pdf",
+    "label" : {
+      "en" : [ "High-resolution PDF rendering (33.27 MB)" ]
+    }
+  }, {
+    "id" : "http://mc.dlib.nyu.edu/files/books/masses003/masses003_lo.pdf",
+    "type" : "Text",
+    "format" : "application/pdf",
+    "label" : {
+      "en" : [ "Low-resolution PDF rendering (8.83 MB)" ]
+    }
+  } ],
+  "summary" : {
+    "en" : [ "Vol. 1, No. 3, March 1911" ]
+  },
+  "requiredStatement" : {
+    "label" : {
+      "en" : [ "Rights" ]
+    },
+    "value" : {
+      "en" : [ "New York University has determined that all issues of The Masses    presented on The Masses website are in the public domain. The    images of The Masses available on this website may be freely    reproduced, distributed and transmitted by anyone for any purpose,    commercial or non-commercial." ]
+    }
+  }
+}
