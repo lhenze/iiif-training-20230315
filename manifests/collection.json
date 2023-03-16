@@ -9,5 +9,11 @@
     "@type" : "sc:Manifest",
     "@id" : "https://lhenze.github.io/iiif-training-20230315/manifests/manifest.json",
     "label" : "Laura's manifest test 003"
+  }, {
+    "id" : "https://lhenze.github.io/iiif-training-20230315/manifests/themassesmanifest.json",
+    "label" : {
+      "en" : [ "The Masses, March 1911" ]
+    },
+    "type" : "Manifest"
   } ]
 }
